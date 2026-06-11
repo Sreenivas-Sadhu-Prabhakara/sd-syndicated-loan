@@ -1,0 +1,14 @@
+apiVersion: v2
+name: sd-syndicated-loan
+description: "BIAN Service Domain: Syndicated Loan (Fulfill pattern, Operations and Execution)"
+type: application
+version: 0.1.0
+appVersion: "0.1.0"
+keywords:
+  - bian
+  - fulfill
+annotations:
+  bian/business-area: "Operations and Execution"
+  bian/business-domain: "Loans and Deposits"
+  bian/asset-type: "Syndicated Loan Facility"
+  bian/control-record: "Syndicated Loan Facility Fulfillment Arrangement"
